@@ -11,7 +11,7 @@ public class AF_JB_E3 {
         Persona p1 = new Persona("Eduardo", 39);
         
         //Introducimos DNI
-        p1.MeterDni("74658132V");
+        p1.MeterDni("55665533X");
         
         //Introducimos descripción
         p1.MeterDesc("Guapísimo!");
